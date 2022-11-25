@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starbuks website Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section>
+        <div class="circle"></div>
+        <header>
+            <a href="#"><img src="image/logo.png" class="logo"></a>
+            <ul>
+                <li><a href="#">Home</a></li> 
+                <li><a href="#">Memu</a></li> 
+                <li><a href="#">What's New</a></li> 
+                <li><a href="#">Contact</a></li> 
+            </ul>
+        </header>
+        <div class="content">
+            <div class="textBox">
+            <h2>It's not just Coffee<br>It's <span>Starbuks</span></h2>
+            <p>Lorem ipsum dolor sit amet, consecture adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veliam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Exepteur sint occeacat cupidatat non proident, sunt in culpa qui oficial deserunt mollit abim id esr laborum.</p>
+                <a href="#">Learn More</a>
+            </div>
+                <div class="imgBox">
+                    <img src="img1.png" alt="" class="starbucks">
+                    </div>
+        </div>
+       <ul class="thumb">
+        <li><img src="image/thumb1.png" onclick="imgSlider('img1.png')"></li>
+        <li><img src="image/thumb2.png" onclick="imgSlider('img2.png')"></li>
+        <li><img src="image/thumb3.png" onclick="imgSlider('img3.png')"></li>
+       </ul>
+       <ul class="sci">
+        <li><a href="#"><img src="image/facebook.png" alt=""></a></li>
+        <li><a href="#"><img src="image/twitter.png" alt=""></a></li>
+        <li><a href="#"><img src="image/instagram.png" alt=""></a></li>
+       </ul>
+    </section>
+    <script type="text/javascript">
+    function imgSlider(qualquerCoisa){
+        document.querySelector('.starbucks').src = qualquerCoisa;
+    }</script>
+</body>
+</html>
