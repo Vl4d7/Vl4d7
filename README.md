@@ -12,7 +12,7 @@
   <img align="center" alt="Vlad-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vlad-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vlad-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Vlad-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/79332758/175120247-8226d239-38c6-4937-9af8-49ec22db8c70.jpg">
+  <img align="right" alt="Vlad-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e6/45/bb/e645bb9ec66ac3f742853d558f2a2db8.jpg">
 
 
     
